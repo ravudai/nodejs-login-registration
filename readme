@@ -1,0 +1,13 @@
+- Create client and server folders
+- create .gitignore and keep adding files that you do not want to add to git
+
+Client Setup
+- create package.json with minimal parameters
+- npm install react react-dom
+- npm install -D typescript
+- to enforce type definition for all our pacakges npm install -D @types/node @types/react @types/react-dom
+- creat jsconfig.json with minimal parameters
+- create src folder
+- create public folder and add index.html there, create div with id root and include script file /src/index.tsx
+- create index.tsx, add ReactDOM.render and <App/>
+- create App.tsx
