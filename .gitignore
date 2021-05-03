@@ -1,3 +1,4 @@
 # Ignore below from Git
 .DS_STORE
 /client/node_modules
+package-lock.json

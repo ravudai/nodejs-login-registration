@@ -9,7 +9,7 @@ const useStyles = makeStyles((theme) => ({
         margin: theme.spacing(8,4),
     },
     mainContainer: {
-        backgroundImage: url(''),
+        backgroundImage: new URL('./images/bg.jpg'),
     }.
     signinPanel: { 
         padding: 10,
